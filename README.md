@@ -15,6 +15,10 @@ The application is intentionally simple:
 It was originally made for maintaining personally checked glider
 outlanding fields and transferring them to XCSoar on Android.
 
+## Käyttöliittymä
+
+![Landable CUP käyttöliittymä](screenshot.jpg)
+
 ## Features
 
 - View the current CUP file in the browser
